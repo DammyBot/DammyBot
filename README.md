@@ -21,7 +21,7 @@ Currently leveling up my skills in **Unreal Engine, React, and After Effects** w
 📌 Featured Projects  
 🎮 **Flappy Bird Remake (UE4)** – Implemented Blueprints, keybinds, sound design & collision system.  
 🎥 **CODM Tournament Thriller (Paid Project)** – High-energy video edit with motion graphics & seamless transitions.  
-🌐 **Spotify Clone (React)** – Learning React hooks while recreating the UI/UX of Spotify.  
+🌐 **Spotify Clone (Ongoing Project)** – Learning React hooks while recreating the UI/UX of Spotify.  
 
 ---
 
